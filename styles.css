@@ -1,0 +1,29 @@
+body{
+  margin:0;
+}
+
+h1{
+  margin:0;
+  text-align: center;
+  padding-top: 50px;
+  font-family: 'Lobster', cursive;
+  font-size: 8rem;
+  color:#ffd571;
+}
+img{
+  width:80%;
+}
+
+.container{
+  background-color: #797a7e;
+  text-align:center;
+  height:700px;
+
+}
+.dice{
+  display:inline-block;
+  padding:20px;
+  font-family: 'Lobster', cursive;
+  font-size: 2rem;
+  color:#ffd571;
+}
